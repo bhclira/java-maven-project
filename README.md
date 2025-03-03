@@ -34,7 +34,7 @@ os valores de um objeto UserDTO (formulário) para um objeto UserModel (formato 
 ### Exemplo de Código
 Aqui está um exemplo de como o MapStruct foi usado para mapear entre as classes UserDTO e UserModel:
 
-![Imagem Local](C:\Projetos\Java\maven-project\src\img\img-2.png)
+![Imagem Local](src/img/img-1.png)
 
 ### Benefícios
 
