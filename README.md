@@ -8,7 +8,7 @@ Lombok: Reduz o boilerplate code ao gerar automaticamente getters, setters, cons
 
 Dependências
 O projeto inclui as seguintes dependências no pom.xml:
-![Imagem Local](https://github.com/bhclira/java-maven-project/blob/main/src/img/img-1.png)
+![Imagem Local](src/img/img-1.png)
 
 ### Anotações do Lombok
 Algumas das principais anotações do Lombok utilizadas neste projeto:
